@@ -1,5 +1,5 @@
 //仅作为对Array模块的补充，也可以把这些函数存为Array模块的方法。
-//Just as a supplement to the Array module, you can also save these functions as the Array module methods.
+//Just as a supplement to the Array module, you can also save these functions as methods of the Array module.
 /**
  * @description 重复数组
  * @param {any[]} list 数组
