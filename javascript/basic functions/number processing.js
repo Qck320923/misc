@@ -1,5 +1,5 @@
 //仅作为对Math模块的补充，也可以把这些函数存为Math的方法。
-//Just as a supplement to Math module, you can also save these functions as Math methods.
+//Just as a supplement to the Math module, you can also save these functions as the Math methods.
 /**
  * @description 随机小数
  * @param {number} low 最低值
