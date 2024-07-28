@@ -1,4 +1,4 @@
 # 简介
-RMBSend打包后的文件。（未加密）
+RMBSend打包后（37.7MB）压缩后（37.1MB）分卷后（25.0MB+12.1MB）的文件+人民币纸币图片。（未加密）
 
-（不用安装python和wxauto库）
+（不用安装python和wxauto库，解压时需要合并解压）
